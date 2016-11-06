@@ -12,10 +12,10 @@ uses
 procedure HelloWorldTest;
 var
   script: String;
-	runtime: JsRuntimeHandle;
-	context: JsContextRef;
-	currentSourceContext: LongWord;
-	result: JsValueRef;
+  runtime: JsRuntimeHandle;
+  context: JsContextRef;
+  currentSourceContext: LongWord;
+  result: JsValueRef;
   resultJSString: JsValueRef;
   resultWC: pwchar_t;
   stringLength: size_t;
