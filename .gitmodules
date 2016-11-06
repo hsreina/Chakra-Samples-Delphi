@@ -1,0 +1,6 @@
+[submodule "ChakraCore Samples/Hello World/Windows/Delphi/ChakraCore-Delphi"]
+	path = ChakraCore Samples/Hello World/Windows/Delphi/ChakraCore-Delphi
+	url = https://github.com/hsreina/ChakraCore-Delphi.git
+[submodule "ChakraCore-Delphi"]
+	path = ChakraCore-Delphi
+	url = https://github.com/hsreina/ChakraCore-Delphi.git
